@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Nick! 👋
 
 - 🔭 I’m currently working on some really cool automation and scalability improvements to [Binogi](https://binogi.com)'s content production systems.
 - 🌱 I’m currently learning about Docker, AWS, software architecutre, and management techniques.
